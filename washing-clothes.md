@@ -1,1 +1,1 @@
-# washing clothes
+# Washing clothes
