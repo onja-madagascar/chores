@@ -1,1 +1,1 @@
-# Whashing dishes 
+# washing dishes 
