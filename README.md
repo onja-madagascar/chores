@@ -12,7 +12,7 @@ We have a lot of daily chores to do around the campus
 
 [washing-pot](https://github.com/onja-madagascar/chores/blob/master/washing-pot.md)
 
-[fixing-fence]
+[fixing-fence](https://github.com/onja-madagascar/chores/blob/master/fixing-fence.md)
 
 [digging-hole](https://github.com/onja-madagascar/chores/blob/master/digging-hole.md)
 
