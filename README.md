@@ -17,3 +17,5 @@ We have a lot of daily chores to do around the campus
 [digging-hole](https://github.com/onja-madagascar/chores/blob/master/digging-hole.md)
 
 [washing-up]
+
+[sweeping-the-kitchen]
