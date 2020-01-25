@@ -18,4 +18,4 @@ We have a lot of daily chores to do around the campus
 
 [washing-up]
 
-[sweeping-the-kitchen](https://github.com/onja-madagascar/chores/blob/master/updated-the-sweeping-the-kitchen-chore.md)
+[sweeping-the-kitchen](https://github.com/onja-madagascar/chores/blob/448582f107aa065cdb74d275ac684b3b1e324081/sweeping-the-kitchen.md)
