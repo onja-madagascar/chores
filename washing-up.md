@@ -22,5 +22,5 @@
 ## How to tidy the plates that you have washed
   
  - Gather the plates in the same size and put them together.
-  - Gather the spones in one place.
+  - Gather the spoons in one place.
   - Hang the big spoons and big cups by the wall.
