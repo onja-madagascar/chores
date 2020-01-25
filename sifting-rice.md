@@ -3,7 +3,6 @@
 **How often**:We do it twice a week.
 ## *Tools:*
 
-- people
 - sahafa
 - rice
 - baskets
@@ -27,7 +26,7 @@ Everyone who doesn't have anything to do should participate.
 
 We need to call Mama Onja, she knows how to do it.
 
-NB: *For more explanation, please visit this link: [cleaning-rice](http://www.alamy.com)
+NB: *For more explanation, please visit this link:[cleaning-rice](http://www.google.com/search?q=cleaning+rice+in+madagascar)
 
    ![cleaning rice](clean.jpg)
 
