@@ -10,7 +10,7 @@ We have a lot of daily chores to do around the campus
 
 [putting-out-dinner](https://github.com/onja-madagascar/chores/blob/master/putting-out-dinner.md)
 
-[washing-pot]()
+[washing-pot](https://github.com/onja-madagascar/chores/blob/master/washing-pot.md)
 
 [fixing-fence]
 
