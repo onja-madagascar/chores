@@ -6,7 +6,7 @@ We have a lot of daily chores to do around the campus
 
 [sweeping-classroom](https://github.com/onja-madagascar/chores/blob/master/sweeping-classroom.md)
 
-[sifting-rice](https://github.com/onja-madagascar/chores/blob/master/sifting-rice.md)
+[sifting-rice](https://github.com/onja-madagascar/chores/blob/master/digging-hole.mdsifting-rice.md)
 
 [putting-out-dinner](https://github.com/onja-madagascar/chores/blob/master/putting-out-dinner.md)
 
@@ -18,4 +18,4 @@ We have a lot of daily chores to do around the campus
 
 [washing-up]
 
-[sweeping-the-kitchen]
+[sweeping-the-kitchen](https://github.com/onja-madagascar/chores/blob/master/updated-the-sweeping-the-kichen-chore.md)
