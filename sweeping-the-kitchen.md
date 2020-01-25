@@ -8,7 +8,9 @@
     . Put them into their place 
     . Start sweeping the kitchen 
 ## *How many people do we need to do this ?* 
-    . At most we need two people 
+    . At most we 4 two people 
+    . three people sweep 
+    . One moves things like pots 
 ## *How often do we need to do this ?* 
     . Nedded to do everyday 
     . At least three times a day  
