@@ -1,4 +1,4 @@
-# **putting out dinner**
+# **Putting out dinner**
 
 **How often:** Once a day,after school in the evening.
 
@@ -8,7 +8,7 @@
 - Small Spoons
 - Two big spoons
 - Mats
-- pots of rice and ro
+- Pots of rice and ro
 
 ## What is the process to accomplish the task?
 

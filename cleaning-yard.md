@@ -19,10 +19,10 @@
   1. start gathering those who throw and bring into the hole
 
 
- ## time:
+ ## Time:
  - how often: every morning
 
- ## people who can help
+ ## People who can help
  need four people
       
 

@@ -1,4 +1,4 @@
-# **sweeping the kitchen**
+# **Sweeping the kitchen**
 
 ## *What do we need to accomplish this task ?*
     . broom 

@@ -1,6 +1,6 @@
 # Sweeping classroom
 
- How often:2 times a day,in the morning and in the evening
+ How often:twice a day,in the morning and in the evening
 
  ## Tools
  - Brooms
@@ -17,7 +17,7 @@
 1. Rearrange the tables and chairs.
 
 ## People can help
- Cynthia and kati,because they have done it before.
+ Cynthia and Kati,because they have done it before.
  
 
 

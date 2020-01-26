@@ -1,4 +1,4 @@
-# fixing fence
+# Fixing fence
 ### `we need three people`
 #### `duration`: 1h30mn
 ### `It is a weekly chores: once a week`

@@ -1,8 +1,8 @@
 # Digging hole
-How often:one times every two months
+How often:once every two months
 
 ## Tools
-- Three spads 
+- Three spades 
 - Three empty sacks 
  - A place
  ## The process
