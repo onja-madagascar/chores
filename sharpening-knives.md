@@ -9,14 +9,14 @@
 . The knives 
 
 ## Process:
-. Poor some water on the rock and the knife  
+. Pour some water on the rock and the knife  
 . Sharpen the knife  
 . Clean the knife  
 . Do that process to the other knives 
 
 ## People we need:
 We need two peole:  
- . One person poors the water on the rock and the knife  
+ . One person pours the water on the rock and the knife  
  . One person sharpens the knife
 
  ## Someone to call for help:  
