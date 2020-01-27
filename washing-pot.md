@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Washing pots
+
+# Washing pot
 
 Washing pot is one of the chores at **Onja**
 
@@ -7,9 +7,9 @@ Washing pot is one of the chores at **Onja**
 
 ## Tools
     Dirty pots
-    water
-    steel wool
-    soap
+    Water
+    Steel wool
+    Soap
     Buckets
     Sponge
 
@@ -20,36 +20,9 @@ Washing pot is one of the chores at **Onja**
 1. Take the steel wool and scratch the pot with sand
 1. Rinse it with clean water
 1. Use the soap in order to rub the pot
-1. use sponge and pour water to clean the pot
+1. Use sponge and pour water to clean the pot
 1. It's done and then bring the pot back in the kitchen
 
-## who to call for help?
+## Who to call for help?
 Just call some boys 
-=======
-# Washing pots
 
-Washing pot is one of the chores at **Onja**
-
-**How often**: Two times a day, after lunch and after dinner
-
-## Tools
-    Dirty pots
-    water
-    steel wool
-    soap
-    Buckets
-    Sponge
-
-## The process
-1. Take one of the dirty pots
-1. Fetch water from the drum and pour it in buckets
-1. Pour the water to the pot
-1. Take the steel wool and scratch the pot with sand
-1. Rinse it with clean water
-1. Use the soap in order to rub the pot
-1. use sponge and pour water to clean the pot
-1. It's done and then bring the pot back in the kitchen
-
-## who to call for help?
-Just call some boys 
->>>>>>> 828240eecddfceec899d98ade0cde2cf16dc595d
