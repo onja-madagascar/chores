@@ -1,6 +1,6 @@
-# **putting out dinner**
+# **Putting out dinner**
 
-**How often:** Once a day,after school in the evening.
+**How often:** Once a day, after school in the evening.
 
 ## What do we need?
 
@@ -8,7 +8,7 @@
 - Small Spoons
 - Two big spoons
 - Mats
-- pots of rice and ro
+- Pots of rice and ro
 
 ## What is the process to accomplish the task?
 
@@ -23,10 +23,8 @@
 Approximately,we need four people:
  
  - Two people share the rice and ro.
- - one person put the spoon in each plate.
+ - One person put the spoon in each plate.
  - One person light up the fire and arrange the plates.
 
  ## Who to call for help?
  Voahangy and all students. 
-
-
