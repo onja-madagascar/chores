@@ -7,7 +7,7 @@
 - Rope
 - The well
 Someone to help you
-250l water drums
+- 250l water drums
 - Water purifier bottle
 
 **The process**
