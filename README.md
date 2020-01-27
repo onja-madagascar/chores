@@ -1,20 +1,20 @@
 # Chores
 We have a lot of daily chores to do around the campus:
 
-- cleaning-yard
+- Cleaning yard
 
-- digging-hole
+- Digging holes
 
-- fixing-fence
+- Fixing fence
 
-- Putting-out-dinner
+- Putting out dinner
 
-- Shifting-rice
+- Shifting rice
 
-- Sweeping-classroom
+- Sweeping classroom
 
-- Sweeping-the-kitchen
+- Sweeping the kitchen
 
-- Washing-pot
+- Washing pot
 
-- Washing-up
+- Washing up
