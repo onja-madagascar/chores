@@ -2,7 +2,7 @@
 We have a lot of daily chores to do around the campus
 
 
-1. [cleaning-yard](https://github.com/onja-madagascar/chores/blob/master/cleaning-yard.md)
+1. [cleaning-yard](https://github.com/onja-madagascar/chores/pull/55/commits/56ed28e9e23d31b8d07f233d60739efd8c75b4bd)
 
 1. [digging-hole](https://github.com/onja-madagascar/chores/blob/master/digging-hole.md)
 
