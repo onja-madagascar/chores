@@ -1,16 +1,16 @@
 # Cleaning yard
 
-**How often:**Once a week,every working bee.
+**How often:** Once a week, every working bee.
 
 ## Tools:
 
-- brooms according to the number of the people.
+- Brooms according to the number of the people.
 
-- a sack for each 2 people
+- A sack for each 2 people
 
-- a  trash hole
+- A  trash hole
 
-- [spades](http://@bigmarket.com)
+- [Spades](http://@bigmarket.com)
 
 
 
