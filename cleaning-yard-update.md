@@ -1,6 +1,6 @@
-# Cleaning yard
+# Cleaning yard 
 
-**How often:**Once a week,every working bee.
+**How often**:Once a week,every working bee.
 
 ## Tools:
 
